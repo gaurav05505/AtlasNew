@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "interestingFact": "India is the largest democracy in the world and has over 1,600 spoken languages."
+  },
+  {
+    "id": 2,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67390000,
+    "interestingFact": "France is the most visited country in the world and is famous for the Eiffel Tower."
+  },
+  {
+    "id": 3,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan consists of more than 6,800 islands and is known for its advanced technology."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25690000,
+    "interestingFact": "Australia is both a country and a continent, and is famous for kangaroos."
+  },
+  {
+    "id": 6,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 109300000,
+    "interestingFact": "Egypt is home to the Great Pyramids of Giza, one of the Seven Wonders of the Ancient World."
+  }
+]

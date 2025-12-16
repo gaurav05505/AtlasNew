@@ -1,0 +1,18 @@
+{
+  "aboutUs": "Welcome to World Atlas — a modern space created for curious minds who want to explore the planet in a simple, beautiful, and meaningful way. Our mission is to make global knowledge accessible, engaging, and enjoyable for everyone. We believe the world is full of stories — countries shaped by culture, history, nature, and people. Through clean design, interactive maps, and verified data, we bring these stories to life, one region at a time.",
+
+  "whatWeOffer": {
+    "intro": "Our platform is built to help you discover the world effortlessly:",
+    "features": [
+      "Interactive world and regional maps",
+      "Detailed country profiles",
+      "Population, culture, climate, and economic insights",
+      "Quick facts and lesser-known highlights",
+      "Visually rich cards, icons, and data layouts"
+    ]
+  },
+
+  "whyWeCreatedThis": "We wanted to build an atlas that feels fresh, modern, and easy to explore — something that blends global information with a smooth, minimal user experience. A space where learning about the world doesn’t feel complicated, but inspiring.",
+
+  "ourVision": "To help people understand the planet better by presenting global knowledge in a way that’s simple, visual, and enjoyable. We aim to make geography fun again — one fact, one map, one discovery at a time. Thank you for exploring the world with us. Let’s continue discovering the Earth, together."
+}
